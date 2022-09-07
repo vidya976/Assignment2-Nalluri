@@ -22,3 +22,15 @@ In my childhood, I used to be an art student who wants to visit different art mu
 * Robert F Kennedy Bridge
 
 [link to aboutme](AboutMe.md)
+
+***
+# About famous cities
+The following table describes famous cities everyone must visit.
+|Name of city|Important location           |Time    |
+|:---------: |:----------------:           |:-----: |
+| Newyork    | Statue of Liberty           |3 hours |
+| Agra       | Taj Mahal                   |36 hours|
+| Mexico     | White Sands National Park   |3 hours |
+| Paris      | Eiffel tower                |5 hours |
+
+
