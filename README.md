@@ -43,15 +43,12 @@ The following table describes famous cities everyone must visit.
 ***
 # Code Fencing
 This is different than the default code that Flash provides. That typically involves the <embed> tag and is not valid XHTML. This doesn’t use that, and is fully valid.Quick link to the source<https://css-tricks.com/snippets/html/embedding-flash/>
-
-'''
-<?html
+```
 <object type="application/x-shockwave-flash" 
   data="your-flash-file.swf" 
   width="0" height="0">
   <param name="movie" value="your-flash-file.swf" />
   <param name="quality" value="high"/>
 </object>
-?>
-'''
+```
 Quick link to the source<https://css-tricks.com/snippets/html/embedding-flash/>
