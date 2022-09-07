@@ -35,7 +35,7 @@ The following table describes famous cities everyone must visit.
 
 ***
 # Pithy Quotes
->"Life is a journey, not a destination."
->Author: Ralph Waldo Emerson<br>
+>"Yoyr greatest test will be how you handle people who mishandled you."
+>Author: *pastor_west*<br>
 >"Enthusiasm makes up for a host of deficiencies."
->Author: Barack Obama
+>Author: *Barack Obama*
