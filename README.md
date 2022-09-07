@@ -33,4 +33,9 @@ The following table describes famous cities everyone must visit.
 | Mexico     | White Sands National Park   |3 hours |
 | Paris      | Eiffel tower                |5 hours |
 
-
+***
+# Pithy Quotes
+>"Life is a journey, not a destination."
+>Author: Ralph Waldo Emerson<br>
+>"Enthusiasm makes up for a host of deficiencies."
+>Author: Barack Obama
